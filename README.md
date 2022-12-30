@@ -1,7 +1,5 @@
 Authors: neelan.pather@gmail.com
 
-![149741504-67ef2b85-8e12-47fd-a681-adefe3a4ec5e-removebg-preview](https://user-images.githubusercontent.com/97616162/158749972-4d86af31-7f4a-4d0b-b5a3-d0bda799a0f3.png)
-
 # 🎙 ASR
 Automatic Speech Recognition 
 
